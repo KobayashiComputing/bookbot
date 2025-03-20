@@ -1,3 +1,5 @@
+import sys
+
 def word_count(book_contents):
     words = book_contents.split()
 
